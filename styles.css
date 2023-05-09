@@ -83,4 +83,8 @@ body{
     justify-content: first baseline;
     align-items: first baseline;
 }
+.card{
+    display: flex;
+    margin-left: 0px;
+}
 }
