@@ -75,19 +75,3 @@ body{
     margin-top: 50px;
     font-weight: 400;
 }
-
-@media (max-width: 800px){
-.container{
-    flex-direction: column;
-    display: flex;
-    justify-content: first baseline;
-    align-items: first baseline;
-}
-}
-
-@media (min-width: 800px){
-.card{
-    margin-left: 10px;
-}
-}
-
